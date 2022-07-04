@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
-<head>
+<head>git commit -m "first commit"
+
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>Página inicial</title>
